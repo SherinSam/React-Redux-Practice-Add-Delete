@@ -1,3 +1,10 @@
+
+###Description
+
+React-Redux practise for adding and deleteing transaction methods.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
